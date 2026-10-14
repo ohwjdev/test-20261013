@@ -130,6 +130,17 @@
                      <layer xml:id="layer-7" n="1"/>
                   </staff>
                </measure>
+               </section>
+            </score>
+         </mdiv>
+         <mdiv xml:id="mdiv-2" n="2">
+            <score xml:id="score-2">
+               <scoreDef xml:id="scoreDef-2">
+                  <staffGrp xml:id="staffGrp-2">
+                     <staffDef xml:id="staffDef-2" n="1" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4"/>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-2">
                <pb xml:id="pb-2" n="2" facs="#surface-2"/>
                <measure xml:id="measure-8" n="8" facs="#zone-2-1">
                   <staff xml:id="staff-8" n="1">
