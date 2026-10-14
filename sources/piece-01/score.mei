@@ -62,7 +62,7 @@
             <zone xml:id="zone-1-3" type="measure" n="3" ulx="1069" uly="547" lrx="1360" lry="3213"/>
             <zone xml:id="zone-1-4" type="measure" n="4" ulx="1291" uly="545" lrx="1621" lry="3219"/>
             <zone xml:id="zone-1-5" type="measure" n="5" ulx="1562" uly="549" lrx="1840" lry="3221"/>
-            <zone xml:id="zone-1-6" type="measure" n="6" ulx="1765" uly="542" lrx="2159" lry="3224"/>
+            <zone xml:id="zone-1-6" type="measure" n="6" ulx="1763" uly="542" lrx="2157" lry="3224"/>
             <zone xml:id="zone-1-7" type="measure" n="7" ulx="2090" uly="539" lrx="2379" lry="3226"/>
          </surface>
          <surface xml:id="surface-2" n="2" ulx="0" uly="0" lrx="2480" lry="3509">
@@ -81,9 +81,8 @@
             <zone xml:id="zone-2-12" type="measure" n="19" ulx="762" uly="2114" lrx="1125" lry="3294"/>
             <zone xml:id="zone-2-13" type="measure" n="20" ulx="1056" uly="2126" lrx="1422" lry="3292"/>
             <zone xml:id="zone-2-14" type="measure" n="21" ulx="1364" uly="2116" lrx="1757" lry="3297"/>
-            <zone xml:id="zone-2-15" type="measure" n="22" ulx="1687" uly="2089" lrx="2405" lry="3292"/>
-            <zone xml:id="zone-2-16" type="measure" n="23" ulx="1692" uly="2115" lrx="2074" lry="3282"/>
-            <zone xml:id="zone-2-17" type="measure" n="24" ulx="2010" uly="2116" lrx="2375" lry="3282"/>
+            <zone xml:id="zone-2-15" type="measure" n="22" ulx="1692" uly="2115" lrx="2074" lry="3282"/>
+            <zone xml:id="zone-2-16" type="measure" n="23" ulx="2010" uly="2116" lrx="2375" lry="3282"/>
          </surface>
       </facsimile>
       <body xml:id="body-1">
@@ -211,11 +210,6 @@
                <measure xml:id="measure-23" n="23" facs="#zone-2-16">
                   <staff xml:id="staff-23" n="1">
                      <layer xml:id="layer-23" n="1"/>
-                  </staff>
-               </measure>
-               <measure xml:id="measure-24" n="24" facs="#zone-2-17">
-                  <staff xml:id="staff-24" n="1">
-                     <layer xml:id="layer-24" n="1"/>
                   </staff>
                </measure>
                </section>
