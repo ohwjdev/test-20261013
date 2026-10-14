@@ -66,7 +66,7 @@
             <zone xml:id="zone-1-7" type="measure" n="7" ulx="227" uly="1631" lrx="816" lry="3295"/>
             <zone xml:id="zone-1-8" type="measure" n="8" ulx="755" uly="1611" lrx="1142" lry="3301"/>
             <zone xml:id="zone-1-9" type="measure" n="9" ulx="1077" uly="1615" lrx="1462" lry="3297"/>
-            <zone xml:id="zone-1-10" type="measure" n="10" ulx="1408" uly="1609" lrx="1744" lry="3303"/>
+            <zone xml:id="zone-1-10" type="measure" n="10" ulx="1407" uly="1609" lrx="1744" lry="3303"/>
             <zone xml:id="zone-1-11" type="measure" n="11" ulx="1677" uly="1619" lrx="2051" lry="3305"/>
             <zone xml:id="zone-1-12" type="measure" n="12" ulx="1990" uly="1615" lrx="2372" lry="3305"/>
          </surface>
