@@ -146,6 +146,17 @@
                      <layer xml:id="layer-10" n="1"/>
                   </staff>
                </measure>
+               </section>
+            </score>
+         </mdiv>
+         <mdiv xml:id="mdiv-2" n="2">
+            <score xml:id="score-2">
+               <scoreDef xml:id="scoreDef-2">
+                  <staffGrp xml:id="staffGrp-2">
+                     <staffDef xml:id="staffDef-2" n="1" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4"/>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-2">
                <measure xml:id="measure-11" n="11" facs="#zone-2-4">
                   <staff xml:id="staff-11" n="1">
                      <layer xml:id="layer-11" n="1"/>
