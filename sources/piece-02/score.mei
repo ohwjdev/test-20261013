@@ -85,21 +85,25 @@
             <score xml:id="score-1">
                <scoreDef xml:id="scoreDef-1" keysig="3s" optimize="true">
                   <staffGrp xml:id="staffGrp-1">
-                     <staffDef xml:id="staffDef-1" n="1" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
-                        <label xml:id="label-1">F1.I</label>
-                     </staffDef>
-                     <staffDef xml:id="staffDef-2" n="2" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
-                        <label xml:id="label-2">Ob.I</label>
-                     </staffDef>
-                     <staffDef xml:id="staffDef-3" n="3" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="6" meter.unit="8">
-                        <label xml:id="label-3">Klar.</label>
-                     </staffDef>
-                     <staffDef xml:id="staffDef-4" n="4" lines="5" clef.shape="F" clef.line="4" meter.count="6" meter.unit="8">
-                        <label xml:id="label-4">Fag</label>
-                     </staffDef>
-                     <staffDef xml:id="staffDef-5" n="5" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="6" meter.unit="8">
-                        <label xml:id="label-5">Klar.</label>
-                     </staffDef>
+                     <staffGrp xml:id="staffGrp-2" symbol="brace" bar.thru="true">
+                        <staffDef xml:id="staffDef-1" n="1" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
+                           <label xml:id="label-1">F1.I</label>
+                        </staffDef>
+                        <staffDef xml:id="staffDef-2" n="2" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
+                           <label xml:id="label-2">Ob.I</label>
+                        </staffDef>
+                     </staffGrp>
+                     <staffGrp xml:id="staffGrp-3" symbol="brace" bar.thru="true">
+                        <staffDef xml:id="staffDef-3" n="3" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="6" meter.unit="8">
+                           <label xml:id="label-3">Klar.</label>
+                        </staffDef>
+                        <staffDef xml:id="staffDef-4" n="4" lines="5" clef.shape="F" clef.line="4" meter.count="6" meter.unit="8">
+                           <label xml:id="label-4">Fag</label>
+                        </staffDef>
+                        <staffDef xml:id="staffDef-5" n="5" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="6" meter.unit="8">
+                           <label xml:id="label-5">Klar.</label>
+                        </staffDef>
+                     </staffGrp>
                      <staffDef xml:id="staffDef-6" n="6" lines="5" clef.shape="F" clef.line="4" keysig="0" meter.count="6" meter.unit="8">
                         <label xml:id="label-6">Fag</label>
                      </staffDef>
