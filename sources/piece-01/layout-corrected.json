@@ -199,20 +199,7 @@
 					"lry": 3191
 				}
 			],
-			"grandstaves": [
-				{
-					"ulx": 478,
-					"uly": 879,
-					"lrx": 2340,
-					"lry": 1114
-				},
-				{
-					"ulx": 477,
-					"uly": 2080,
-					"lrx": 2336,
-					"lry": 2297
-				}
-			]
+			"grandstaves": []
 		},
 		{
 			"image": "../img/02.jpg",
@@ -658,14 +645,7 @@
 					"lry": 3255
 				}
 			],
-			"grandstaves": [
-				{
-					"ulx": 264,
-					"uly": 2483,
-					"lrx": 2339,
-					"lry": 2655
-				}
-			]
+			"grandstaves": []
 		}
 	]
 }
