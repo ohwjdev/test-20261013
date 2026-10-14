@@ -411,14 +411,7 @@
 					"lry": 3255
 				}
 			],
-			"grandstaves": [
-				{
-					"ulx": 2005,
-					"uly": 2517,
-					"lrx": 2168,
-					"lry": 2682
-				}
-			]
+			"grandstaves": []
 		}
 	]
 }
