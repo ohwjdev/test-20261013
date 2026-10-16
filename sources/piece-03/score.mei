@@ -67,14 +67,12 @@
             <zone xml:id="zone-1-8" type="measure" n="8" ulx="1872" uly="223" lrx="2372" lry="855"/>
             <zone xml:id="zone-1-9" type="measure" n="9" ulx="1873" uly="231" lrx="2372" lry="1514"/>
             <zone xml:id="zone-1-10" type="measure" n="10" ulx="1873" uly="894" lrx="2371" lry="1504"/>
-            <zone xml:id="zone-1-11" type="measure" n="11" ulx="227" uly="1631" lrx="816" lry="3295"/>
+            <zone xml:id="zone-1-11" type="measure" n="11" ulx="227" uly="1621" lrx="816" lry="3285"/>
             <zone xml:id="zone-1-12" type="measure" n="12" ulx="755" uly="1611" lrx="1142" lry="3301"/>
-            <zone xml:id="zone-1-13" type="measure" n="13" ulx="1077" uly="1615" lrx="1462" lry="2714"/>
-            <zone xml:id="zone-1-14" type="measure" n="14" ulx="1082" uly="1646" lrx="1469" lry="3344"/>
-            <zone xml:id="zone-1-15" type="measure" n="15" ulx="1408" uly="1609" lrx="1741" lry="2742"/>
-            <zone xml:id="zone-1-16" type="measure" n="16" ulx="1410" uly="1610" lrx="1740" lry="3315"/>
-            <zone xml:id="zone-1-17" type="measure" n="17" ulx="1677" uly="1619" lrx="2051" lry="3305"/>
-            <zone xml:id="zone-1-18" type="measure" n="18" ulx="1990" uly="1615" lrx="2372" lry="3305"/>
+            <zone xml:id="zone-1-13" type="measure" n="13" ulx="1080" uly="1619" lrx="1467" lry="3302"/>
+            <zone xml:id="zone-1-14" type="measure" n="14" ulx="1408" uly="1612" lrx="1741" lry="3286"/>
+            <zone xml:id="zone-1-15" type="measure" n="15" ulx="1677" uly="1617" lrx="2051" lry="3303"/>
+            <zone xml:id="zone-1-16" type="measure" n="16" ulx="1989" uly="1615" lrx="2371" lry="3305"/>
          </surface>
       </facsimile>
       <body xml:id="body-1">
@@ -166,16 +164,6 @@
                <measure xml:id="measure-16" n="16" facs="#zone-1-16">
                   <staff xml:id="staff-16" n="1">
                      <layer xml:id="layer-16" n="1"/>
-                  </staff>
-               </measure>
-               <measure xml:id="measure-17" n="17" facs="#zone-1-17">
-                  <staff xml:id="staff-17" n="1">
-                     <layer xml:id="layer-17" n="1"/>
-                  </staff>
-               </measure>
-               <measure xml:id="measure-18" n="18" facs="#zone-1-18">
-                  <staff xml:id="staff-18" n="1">
-                     <layer xml:id="layer-18" n="1"/>
                   </staff>
                </measure>
                </section>
