@@ -60,9 +60,9 @@
             <zone xml:id="system-1-1" type="system" n="1" ulx="227" uly="1611" lrx="2371" lry="3509"/>
             <zone xml:id="zone-1-1" type="measure" n="1" ulx="227" uly="1621" lrx="816" lry="3285"/>
             <zone xml:id="zone-1-2" type="measure" n="2" ulx="755" uly="1611" lrx="1142" lry="3301"/>
-            <zone xml:id="zone-1-3" type="measure" n="3" ulx="881" uly="1855" lrx="1268" lry="3509"/>
+            <zone xml:id="zone-1-3" type="measure" n="3" ulx="891" uly="1855" lrx="1278" lry="3509"/>
             <zone xml:id="zone-1-4" type="measure" n="4" ulx="1080" uly="1619" lrx="1467" lry="3302"/>
-            <zone xml:id="zone-1-5" type="measure" n="5" ulx="1206" uly="1863" lrx="1593" lry="3509"/>
+            <zone xml:id="zone-1-5" type="measure" n="5" ulx="1216" uly="1863" lrx="1603" lry="3509"/>
             <zone xml:id="zone-1-6" type="measure" n="6" ulx="1408" uly="1612" lrx="1741" lry="3299"/>
             <zone xml:id="zone-1-7" type="measure" n="7" ulx="1677" uly="1617" lrx="2051" lry="3303"/>
             <zone xml:id="zone-1-8" type="measure" n="8" ulx="1989" uly="1615" lrx="2371" lry="3305"/>
