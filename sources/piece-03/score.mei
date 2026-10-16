@@ -67,7 +67,7 @@
          </surface>
       </facsimile>
       <body xml:id="body-1">
-         <mdiv xml:id="mdiv-1" n="1">
+         <mdiv xml:id="mdiv-1" n="1" label="Tempo I">
             <score xml:id="score-1">
                <scoreDef xml:id="scoreDef-1">
                   <staffGrp xml:id="staffGrp-1">
